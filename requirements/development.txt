@@ -193,7 +193,7 @@ et-xmlfile==2.0.0
     # via
     #   -c requirements/base-constraint.txt
     #   openpyxl
-filelock==3.12.2
+filelock==3.20.3
     # via virtualenv
 flask==2.3.3
     # via
@@ -909,7 +909,7 @@ url-normalize==2.2.1
     # via
     #   -c requirements/base-constraint.txt
     #   requests-cache
-urllib3==2.5.0
+urllib3==2.6.3
     # via
     #   -c requirements/base-constraint.txt
     #   docker
@@ -937,7 +937,7 @@ websocket-client==1.8.0
     # via
     #   -c requirements/base-constraint.txt
     #   selenium
-werkzeug==3.1.3
+werkzeug==3.1.5
     # via
     #   -c requirements/base-constraint.txt
     #   flask
